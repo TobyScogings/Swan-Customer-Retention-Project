@@ -2,7 +2,7 @@
 
 A project by team "Santa Tech" as a proof of concept for logistic regression, decision tree and random forest modelling.
 
-## About the Project
+## About the Project 🌟
 
 This project was undertaken to predict the likelihood of customers cancelling their mobile phone contracts in order to find target areas for marketing to improve retention. Data, individuals and companies used are hypothetical.
 We participated in this project as a means to enhance our predictive modelling skills, particularly in classification modelling and to gain a practical understanding of these methods.
@@ -19,7 +19,7 @@ We participated in this project as a means to enhance our predictive modelling s
   - Lost customer demographics
   - Areas to target
 
-## Technologies Used
+## Technologies Used 🖥️
 
 - `python`
   - `pandas`
@@ -31,7 +31,7 @@ We participated in this project as a means to enhance our predictive modelling s
 - Microsoft Powerpoint
 - Microsoft Excel
 
-## Project Structure
+## Project Structure 🔀
 
 - **Data Handling and Exploration**: Data was taken from "Project Data.csv" and explored to prepare for modelling
 - **Model Creation**: All three models were create in tandem by different team members then collated after completion
@@ -39,7 +39,7 @@ We participated in this project as a means to enhance our predictive modelling s
 - **Output Generation**: Once models were finalised, a weighted formula determined the deliverable list of customer risks.
 - **Information Deck Development**: Running alongside these steps was an info deck, used to describe our findings and give suggestions for improvement.
 
-## Outcomes
+## Outcomes 🎉
 
 *Technical*:
 
