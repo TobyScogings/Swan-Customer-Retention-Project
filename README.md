@@ -33,7 +33,7 @@ We participated in this project as a means to enhance our predictive modelling s
 
 ## Project Structure 🔀
 
-- **Data Handling and Exploration**: Data was taken from "Project Data.csv" and explored to prepare for modelling
+- **Data Handling and Exploration**: Data was taken from "1 - Project Data.csv" and explored to prepare for modelling
 - **Model Creation**: All three models were create in tandem by different team members then collated after completion
 - **Success Analysis**: Key metrics were considered (accuracy and recall) and iterated upon until maximised
 - **Output Generation**: Once models were finalised, a weighted formula determined the deliverable list of customer risks.
